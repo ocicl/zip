@@ -1,0 +1,9 @@
+* zip
+
+Library for .zip-file reading and writing, written in Common Lisp.
+
+|---------+-----------------------------------------|
+| source  | git:https://github.com/bluelisp/zip.git |
+| commit  | 688b154                                 |
+| systems | zip                                     |
+|---------+-----------------------------------------|
